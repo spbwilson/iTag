@@ -1,0 +1,48 @@
+<?xml version="1.1" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.7" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="56" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jLabel1" alignment="0" pref="784" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;html&gt;&#xa;&lt;p&gt;&lt;b&gt;Help with iTag:&lt;/b&gt;&lt;/p&gt;&#xa;&lt;p&gt; &lt;/p&gt;&#xa;&lt;p&gt;&lt;b&gt;Opening an image to tag:&lt;/b&gt;&lt;/p&gt;&#xa;&lt;p&gt;- Click &quot;File&quot;&lt;/p&gt;&#xa;&lt;p&gt;- Click &quot;Open&quot;&lt;/p&gt;&#xa;&lt;p&gt;&lt;i&gt;(If you already have an image open, you will be prompted to save its tags.)&lt;/i&gt;&lt;/p&gt;&#xa;&lt;p&gt; &lt;/p&gt;&#xa;&lt;p&gt;&lt;b&gt;Tagging an image:&lt;/b&gt;&lt;/p&gt;&#xa;&lt;p&gt;- Start clicking on the image in the panel highlighting the countours of the tag&lt;/p&gt;&#xa;&lt;p&gt; &lt;/p&gt;&#xa;&lt;p&gt;&lt;b&gt;Finishing a tag:&lt;/b&gt;&lt;/p&gt;&#xa;&lt;p&gt;- Once you&apos;re finished with the tag, click &quot;Finish Tag&quot;&lt;/p&gt;&#xa;&lt;p&gt;&lt;i&gt;(The first and last points of the tag will be joined so make sure you&apos;ve highlighted the countour of your tag correctly!)&lt;/i&gt;&lt;/p&gt;&#xa;&lt;p&gt; &lt;/p&gt;&#xa;&lt;p&gt;&lt;b&gt;Saving image tags:&lt;/b&gt;&lt;/p&gt;&#xa;&lt;p&gt;- Click &quot;File&quot;&lt;/p&gt;&#xa;&lt;p&gt;- Click &quot;Save&quot;&lt;/p&gt;&#xa;&lt;p&gt;&lt;i&gt;(Tags will be saved for next time you open this image.)&lt;/i&gt;&lt;/p&gt;&#xa;&lt;p&gt; &lt;/p&gt;&#xa;&lt;p&gt;&lt;b&gt;Renaming a tag:&lt;/b&gt;&lt;/p&gt;&#xa;&lt;p&gt;- Highlight the tag in the &quot;Tag List&quot;&lt;/p&gt;&#xa;&lt;p&gt;- Click &quot;Rename Tag&quot;&lt;/p&gt;&#xa;&lt;p&gt; &lt;/p&gt;&#xa;&lt;p&gt;&lt;b&gt;Deleting a tag:&lt;/b&gt;&lt;/p&gt;&#xa;&lt;p&gt;- Highlight the tag in the &quot;Tag List&quot;&lt;/p&gt;&#xa;&lt;p&gt;- Click &quot;Delete Tag&quot;&lt;/p&gt;&#xa;&lt;p&gt; &lt;/p&gt;&#xa;&lt;p&gt;&lt;b&gt;Undoing a point:&lt;/b&gt;&lt;/p&gt;&#xa;&lt;p&gt;- Click &quot;Undo Point&quot; before you finish the tag&lt;/p&gt;&#xa;&lt;p&gt;&lt;/p&gt;&#xa;&lt;p&gt;&lt;b&gt;Changing a tag&apos;s colour:&lt;/b&gt;&lt;/p&gt;&#xa;&lt;p&gt;- Click the &quot;Tag Color&quot; drop down box and select your colour&#xa;&lt;p&gt;&lt;/p&gt;&#xa;&lt;p&gt;&lt;b&gt;Closing the image:&lt;/b&gt;&lt;/p&gt;&#xa;&lt;p&gt;- Click &quot;File&quot;&lt;/p&gt;&#xa;&lt;p&gt;- Click &quot;Close&quot;&lt;/p&gt;&#xa;&lt;p&gt;&lt;i&gt;(If you have an image open, you will be prompted to save its tags.)&lt;/i&gt;&lt;/p&gt;&#xa;&lt;p&gt;&lt;/p&gt;&#xa;&lt;p&gt;&lt;b&gt;Exiting the program:&lt;/b&gt;&lt;/p&gt;&#xa;&lt;p&gt;- Click &quot;File&quot;&lt;/p&gt;&#xa;&lt;p&gt;- Click &quot;Exit&quot;&lt;/p&gt;&#xa;&lt;p&gt;&lt;i&gt;(If you have an image open, you will be prompted to save its tags.)&lt;/i&gt;&lt;/p&gt;&#xa;&#xa;&lt;/html&gt;"/>
+        <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[442, 442]"/>
+        </Property>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
